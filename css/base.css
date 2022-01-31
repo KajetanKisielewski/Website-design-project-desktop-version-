@@ -9,6 +9,7 @@
     --color-epsilon: rgb(224, 202, 181);
     --color-dzeta: rgb(10, 188, 235);
     --color-eta: rgb(70, 70, 70);
+    --color-background: radial-gradient(rgb(194, 74, 126), rgb(105, 86, 235));
 }
 
 

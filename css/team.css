@@ -27,11 +27,11 @@
     padding: 8rem 0 3rem 0;
 }
 
-.member__title {
+.member__title-heading {
     font-size: 2rem;
 }
 
-.member__name {
+.member__name-heading {
     padding: 0.5rem 0;
     font-size: 1.5rem;
     font-weight: bold;
