@@ -24,8 +24,8 @@ The project consisted in mapping a website based on a designe from [Webscope](ht
 
 ### Links:
 
-- Code: [See my code]()
-- Live: [Check it out]()
+- Code: [See my code](https://github.com/KajetanKisielewski/Website-design-project-desktop-version-)
+- Live: [Check it out](https://kajetankisielewski.github.io/Website-design-project-desktop-version-/)
 
 ## My process
 
